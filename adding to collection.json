@@ -1,0 +1,14 @@
+      }
+    },
+    "via-popups": {
+      "type": "viaPopups",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "via-popups"
+  ]
+}
