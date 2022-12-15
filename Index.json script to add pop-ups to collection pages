@@ -1,0 +1,19 @@
+      }
+    },
+    "via-popups": {
+      "type": "viaPopups",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "slideshow-1",
+    "featured-collection",
+    "quote",
+    "16518601265e23eaeb",
+    "1651859621a795cd23",
+    "165185979711479a99",
+    "social-proof",
+    "via-popups"
+  ]
+}
